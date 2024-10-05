@@ -1,0 +1,29 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output directories
+/bin/
+/out/
+
+# Go package files
+/pkg/
+/vendor/
+
+# Config files
+.env
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Coverage
+coverage.out
